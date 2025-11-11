@@ -1,40 +1,70 @@
 {
-"events": [
+  "events": [
     {
       "id": 123,
-      "category": "bien-être animal",
-      "title": "Journée d'adoption des chiens",
-      "description": "Rejoignez-nous pour une journée spéciale dédiée à l'adoption des chiens. Trouvez votre compagnon idéal et offrez-lui un foyer aimant.",
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
-      "date": "28 Juin 2025",
+      "date": "January 28, 2022",
       "time": "12:00",
-      "organizer": "Association des Amis des Animaux",
       "petsAllowed": true,
-      "poster": "Cat_Adoption_Day.jpg"
+      "organizer": "Kat Laydee"
     },
     {
       "id": 456,
-      "category": "environnement",
-      "title": "Atelier de plantation d'arbres",
-      "description": "Participez à notre atelier de plantation d'arbres pour contribuer à la reforestation locale et améliorer la qualité de l'air.",
-      "location": "Parc Central",
-      "date": "5 Juillet 2025",
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
       "time": "10:00",
-      "organizer": "Green Earth Initiative",
       "petsAllowed": true,
-      "poster": "Community_Gardening.jpg"
+      "organizer": "Fern Pollin"
     },
     {
       "id": 789,
-      "category": "éducation",
-      "title": "Cours de codage pour débutants",
-      "description": "Apprenez les bases du codage dans ce cours interactif conçu pour les débutants. Aucune expérience préalable requise.",
-      "location": "Centre Communautaire Tech",
-      "date": "12 Juillet 2025",
-      "time": "14:00",
-      "organizer": "Carey Wales",
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 1001,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new canine friend at this event.",
+      "location": "Woof Town",
+      "date": "August 28, 2022",
+      "time": "12:00",
       "petsAllowed": true,
-      "poster": "Code for All"
+      "organizer": "Dawg Dahd"
+    },
+    {
+      "id": 1002,
+      "category": "food",
+      "title": "Canned Food Drive",
+      "description": "Bring your canned food to donate to those in need.",
+      "location": "Tin City",
+      "date": "September 14, 2022",
+      "time": "3:00",
+      "petsAllowed": true,
+      "organizer": "Kahn Opiner"
+    },
+    {
+      "id": 1003,
+      "category": "sustainability",
+      "title": "Highway Cleanup",
+      "description": "Help pick up trash along the highway.",
+      "location": "Highway 50",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Brody Kill"
     }
   ]
 }
